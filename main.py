@@ -3,7 +3,6 @@ class Car:
         self.brand = brand
         self.photo = photo
 
-    def method(self):
-        return self.brand * 2
+
 
 
